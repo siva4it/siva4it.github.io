@@ -25,6 +25,22 @@ permalink: /certifications/
   Issuer: Amazon Web Services (AWS)  
   Issued: 2023
 
+- **AWS Partner: Accreditation (Business)**  
+  Issuer: Amazon Web Services (AWS)  
+  Issued: Aug 2021
+
+- **AWS Partner: Accreditation (Technical)**  
+  Issuer: Amazon Web Services (AWS)  
+  Issued: Jun 2021
+
+- **AWS Partner: Cloud Economics Accreditation**  
+  Issuer: Amazon Web Services (AWS)  
+  Issued: Jun 2021
+
+- **Well-Architected Proficient**  
+  Issuer: Amazon Web Services (AWS)  
+  Issued: Aug 2021
+
 - **Oracle Cloud Infrastructure Foundations 2021 Certified Associate**  
   Issuer: Oracle  
   Issued: Jun 2022
