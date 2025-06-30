@@ -1,237 +1,57 @@
 ---
-layout: default
-title: Siva's Portfolio & Tools
+layout: home
+title: "Siva's Portfolio & Tools"
+subtitle: "Full-Stack Developer | Cloud Architect | AI/ML Enthusiast | Problem Solver"
+avatar: "https://github.com/siva4it.png"
 ---
 
-<div class="profile-header">
-  <div class="profile-avatar">
-    <img src="https://github.com/siva4it.png" alt="Siva's Profile" class="avatar">
-  </div>
-  <div class="profile-info">
-    <h1>👋 Hi, I'm Siva</h1>
-    <p class="tagline">Full-Stack Developer | Open Source Enthusiast | Problem Solver</p>
-    <div class="social-links">
-      <a href="https://github.com/siva4it" target="_blank" class="social-link">
-        <i class="fab fa-github"></i> GitHub
-      </a>
-      <a href="https://www.linkedin.com/in/sivanandan-ac/" target="_blank" class="social-link">
-        <i class="fab fa-linkedin"></i> LinkedIn
-      </a>
-      <a href="mailto:sivanandan.ac@gmail.com" class="social-link">
-        <i class="fas fa-envelope"></i> Email
-      </a>
-    </div>
-  </div>
-</div>
+Welcome to my portfolio! I'm Sivanandan (Siva), a passionate technologist based in Halifax, Nova Scotia, Canada, with over 10 years of experience in the software industry. I specialize in cloud architecture (AWS, Azure, Google Cloud), AI/ML, serverless, DevOps, and full-stack development. My career is built on a foundation of innovation, technical leadership, and a strong customer focus.
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves building useful tools and solving complex problems. My expertise spans across full-stack development, with a focus on creating practical solutions that make a difference.
+- **Location:** Halifax, Nova Scotia, Canada
+- **Experience:** 10+ years in the software industry
+- **Current/Recent Role:** Cognizant
+- **Specialties:** Cloud Architecture (AWS, Azure, Google Cloud), AI/ML, Serverless, DevOps, Microservices, Full-Stack Development, R&D, Innovation, Technical Leadership
 
-### 🛠️ Skills & Technologies
-- **Frontend**: React, Vue.js, HTML5, CSS3, JavaScript/TypeScript
-- **Backend**: Node.js, Python, Java, .NET
-- **Databases**: PostgreSQL, MongoDB, MySQL
-- **DevOps**: Docker, AWS, CI/CD, GitHub Actions
-- **Tools**: Git, VS Code, Postman, Figma
+### 🏆 Certifications
+- AWS Certified Solutions Architect – Professional & Associate
+- AWS Certified Cloud Practitioner & AI Practitioner
+- Oracle Cloud Infrastructure Foundations 2021 Certified Associate
+- Microsoft Certified: Azure Fundamentals
+- Google Cloud Digital Leader
+
+### 💼 Experience
+- Senior roles at Cognizant, leading R&D and innovation projects
+- Recognized for technical leadership and cross-organizational collaboration
+
+### 📚 Education
+- Institution of Engineers of India (IEI), Kolkata
+
+### 📝 Articles & Activity
+- [Unlocking the Power of AI with Chat GPT: Transforming Conversations and Knowledge](#)
+- 2K+ followers, 500+ connections on [LinkedIn](https://www.linkedin.com/in/sivanandan-ac/)
+
+### 💬 Recommendations
+> “Siva is the go-to person for any new technology initiatives, R&D work, and innovation. He is a talented, experienced, and skilled technologist who is very customer-focused and can get the job done. His expertise in Cloud and AI/ML is highly regarded.”  
+> — Seeni Kittappa
+
+> “He is eager to learn new things and always passionate about seeing the results. He remains calm and thinks strategically under pressure. He is a value addition to any team.”  
+> — Leo Cherian
 
 ## 🛠️ My Tools & Projects
 
 Here are some of the tools and projects I'm developing. Each one is designed to solve specific problems and make development easier:
 
-### 🔧 Development Tools
-<div class="tools-grid">
-  <div class="tool-card">
-    <h3>🔄 Code Generator</h3>
-    <p>Automated code generation tool for common development patterns</p>
-    <a href="#" class="tool-link">Coming Soon</a>
-  </div>
-  
-  <div class="tool-card">
-    <h3>📊 Data Visualizer</h3>
-    <p>Interactive data visualization and analytics dashboard</p>
-    <a href="#" class="tool-link">Coming Soon</a>
-  </div>
-  
-  <div class="tool-card">
-    <h3>🔍 API Tester</h3>
-    <p>Advanced API testing and documentation tool</p>
-    <a href="#" class="tool-link">Coming Soon</a>
-  </div>
-  
-  <div class="tool-card">
-    <h3>⚡ Performance Monitor</h3>
-    <p>Real-time application performance monitoring</p>
-    <a href="#" class="tool-link">Coming Soon</a>
-  </div>
-</div>
-
-### 📚 Learning Resources
-<div class="tools-grid">
-  <div class="tool-card">
-    <h3>📖 Dev Cheat Sheets</h3>
-    <p>Quick reference guides for popular technologies</p>
-    <a href="#" class="tool-link">Coming Soon</a>
-  </div>
-  
-  <div class="tool-card">
-    <h3>🎯 Project Templates</h3>
-    <p>Starter templates for various frameworks and use cases</p>
-    <a href="#" class="tool-link">Coming Soon</a>
-  </div>
-</div>
-
-## 🎯 What I'm Working On
-
-I'm currently focused on developing tools that help developers be more productive and efficient. Each tool is designed with the following principles:
-
-- **Simplicity**: Easy to use and understand
-- **Efficiency**: Saves time and reduces repetitive tasks
-- **Reliability**: Well-tested and maintained
-- **Open Source**: Available for the community to use and contribute
+- [🔄 Code Generator](tools/code-generator) - Automated code generation tool for common development patterns
+- 📊 Data Visualizer (Coming Soon)
+- 🔍 API Tester (Coming Soon)
+- ⚡ Performance Monitor (Coming Soon)
+- 📖 Dev Cheat Sheets (Coming Soon)
+- 🎯 Project Templates (Coming Soon)
 
 ## 🤝 Get In Touch
 
-I'm always interested in collaborating on interesting projects or discussing new ideas. Feel free to reach out!
-
-- 📧 **Email**: sivanandan.ac@gmail.com
-- 💼 **LinkedIn**: [sivanandan-ac](https://www.linkedin.com/in/sivanandan-ac/)
-- 🐙 **GitHub**: [siva4it](https://github.com/siva4it)
-
----
-
-<div class="footer">
-  <p>Built with ❤️ using GitHub Pages | Last updated: {{ site.time | date: "%B %d, %Y" }}</p>
-</div>
-
-<style>
-.profile-header {
-  display: flex;
-  align-items: center;
-  gap: 2rem;
-  margin-bottom: 3rem;
-  padding: 2rem;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  border-radius: 15px;
-  color: white;
-}
-
-.profile-avatar .avatar {
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
-  border: 4px solid white;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
-}
-
-.profile-info h1 {
-  margin: 0 0 0.5rem 0;
-  font-size: 2.5rem;
-  font-weight: 700;
-}
-
-.tagline {
-  font-size: 1.2rem;
-  margin: 0 0 1rem 0;
-  opacity: 0.9;
-}
-
-.social-links {
-  display: flex;
-  gap: 1rem;
-  flex-wrap: wrap;
-}
-
-.social-link {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-  padding: 0.5rem 1rem;
-  background: rgba(255,255,255,0.2);
-  border-radius: 25px;
-  color: white;
-  text-decoration: none;
-  transition: all 0.3s ease;
-}
-
-.social-link:hover {
-  background: rgba(255,255,255,0.3);
-  transform: translateY(-2px);
-  color: white;
-  text-decoration: none;
-}
-
-.tools-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 1.5rem;
-  margin: 2rem 0;
-}
-
-.tool-card {
-  background: white;
-  border: 1px solid #e1e4e8;
-  border-radius: 10px;
-  padding: 1.5rem;
-  transition: all 0.3s ease;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-}
-
-.tool-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 8px 25px rgba(0,0,0,0.15);
-  border-color: #0366d6;
-}
-
-.tool-card h3 {
-  margin: 0 0 1rem 0;
-  color: #24292e;
-  font-size: 1.3rem;
-}
-
-.tool-card p {
-  margin: 0 0 1rem 0;
-  color: #586069;
-  line-height: 1.6;
-}
-
-.tool-link {
-  display: inline-block;
-  padding: 0.5rem 1rem;
-  background: #0366d6;
-  color: white;
-  text-decoration: none;
-  border-radius: 6px;
-  font-weight: 500;
-  transition: background 0.3s ease;
-}
-
-.tool-link:hover {
-  background: #0256cc;
-  color: white;
-  text-decoration: none;
-}
-
-.footer {
-  text-align: center;
-  margin-top: 3rem;
-  padding: 2rem;
-  border-top: 1px solid #e1e4e8;
-  color: #586069;
-}
-
-@media (max-width: 768px) {
-  .profile-header {
-    flex-direction: column;
-    text-align: center;
-  }
-  
-  .profile-info h1 {
-    font-size: 2rem;
-  }
-  
-  .tools-grid {
-    grid-template-columns: 1fr;
-  }
-}
-</style>
+- 📧 [Email](mailto:sivanandan.ac@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sivanandan-ac/)
+- 🐙 [GitHub](https://github.com/siva4it)
