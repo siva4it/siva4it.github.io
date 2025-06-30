@@ -7,6 +7,7 @@ permalink: /tools/
 # 📰 Latest Updates
 - Tools page created (2024)
 - Tool links will be enabled as each tool is developed
+- QR Code Generator now available!
 
 # 🛠️ Tools & Utilities
 
@@ -52,7 +53,7 @@ permalink: /tools/
 ## 🔐 Security & Encoding
 34. Hash Generator (MD5, SHA256)
 35. Password Generator
-36. QR Code Generator
+36. [QR Code Generator](https://siva4it.github.io/QR-Code-Generator/) - Generate QR codes for URLs, text, and more
 37. JWT Token Decoder
 
 ## 🧠 Learning & Language Tools
