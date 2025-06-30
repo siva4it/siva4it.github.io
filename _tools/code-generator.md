@@ -7,6 +7,10 @@ live_url: https://code-generator-demo.siva4it.github.io
 status: in-development
 ---
 
+# 📰 Latest Updates
+- Initial version published (2024)
+- CLI and web demo coming soon
+
 # 🔄 Code Generator Tool
 
 A powerful automated code generation tool designed to streamline development workflows by creating boilerplate code for common patterns and frameworks.

@@ -1,21 +1,16 @@
 ---
 layout: home
 title: "Siva's Portfolio & Tools"
-subtitle: "Full-Stack Developer | Cloud Architect | AI/ML Enthusiast | Problem Solver"
-avatar: "https://github.com/siva4it.png"
+subtitle: "Welcome to my developer hub"
 ---
 
-Welcome! I'm Sivanandan (Siva), a passionate technologist based in Halifax, Nova Scotia, Canada. I specialize in cloud architecture, AI/ML, serverless, DevOps, and full-stack development.
-
-- 10+ years of experience in the software industry
-- AWS, Azure, Google Cloud, Oracle, and Microsoft certified
-- Recognized for innovation, technical leadership, and customer focus
+Welcome to my site! Use the links below to explore my profile, certifications, tools, and more.
 
 ---
 
-## 🔗 Explore More
+## 🔗 Quick Links
 
-- [About Me](aboutme) — Full professional summary, experience, education, and recommendations
+- [About Me](aboutme) — Professional summary, experience, and recommendations
 - [Certifications](certifications) — All certifications and digital badges
 - [Credly Badges](https://www.credly.com/users/sivanandan-ac/badges) — View all digital badges
 - [LinkedIn](https://www.linkedin.com/in/sivanandan-ac/) — Connect with me
@@ -23,21 +18,18 @@ Welcome! I'm Sivanandan (Siva), a passionate technologist based in Halifax, Nova
 
 ---
 
-## 🛠️ My Tools & Projects
+## 📰 Latest Updates
 
-Here are some of the tools and projects I'm developing:
+### About Me
+- Updated profile and experience (see [About Me](aboutme))
 
+### Certifications
+- Added all recent AWS, Azure, Google, and Oracle certifications (see [Certifications](certifications))
+
+### Tools & Projects
 - [🔄 Code Generator](tools/code-generator) — Automated code generation tool for common development patterns
-- 📊 Data Visualizer (Coming Soon)
-- 🔍 API Tester (Coming Soon)
-- ⚡ Performance Monitor (Coming Soon)
-- 📖 Dev Cheat Sheets (Coming Soon)
-- 🎯 Project Templates (Coming Soon)
+- More tools coming soon!
 
 ---
 
-## 🤝 Get In Touch
-
-- 📧 [Email](mailto:sivanandan.ac@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sivanandan-ac/)
-- 🏅 [Credly Badges](https://www.credly.com/users/sivanandan-ac/badges)
+For the latest news and updates, check each section above.

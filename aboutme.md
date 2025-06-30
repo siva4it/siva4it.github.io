@@ -4,6 +4,10 @@ title: "About Me"
 permalink: /aboutme/
 ---
 
+# 📰 Latest Updates
+- Profile and experience updated for 2024
+- New certifications and recommendations added
+
 # 👋 About Sivanandan (Siva)
 
 I'm a passionate technologist based in Halifax, Nova Scotia, Canada, with over 10 years of experience in the software industry. My expertise spans cloud architecture (AWS, Azure, Google Cloud), AI/ML, serverless, DevOps, and full-stack development. I am known for my innovation, technical leadership, and customer focus.
