@@ -1,1 +1,36 @@
-theme: jekyll-theme-modernist
+title: Siva's Portfolio & Tools
+description: Welcome to Siva's GitHub Pages - Developer Portfolio and Tool Collection
+author: Siva
+email: sivanandan.ac@gmail.com
+url: "https://siva4it.github.io"
+baseurl: ""
+
+# Theme settings
+theme: jekyll-theme-cayman
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Social media links
+social:
+  github: siva4it
+  linkedin: sivanandan-ac
+  twitter: siva4it
+
+# Collections
+collections:
+  tools:
+    output: true
+    permalink: /tools/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "tools"
+    values:
+      layout: "tool"
