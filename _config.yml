@@ -1,3 +1,6 @@
+# Site settings
+# These are the main settings for Beautiful Jekyll
+
 title: Siva's Portfolio & Tools
 description: Welcome to Siva's GitHub Pages - Developer Portfolio and Tool Collection
 author: Siva
@@ -5,8 +8,22 @@ email: sivanandan.ac@gmail.com
 url: "https://siva4it.github.io"
 baseurl: ""
 
-# Theme settings
-theme: jekyll-theme-cayman
+# Theme
+remote_theme: daattali/beautiful-jekyll@master
+
+# Social media links
+social-network-links:
+  github: siva4it
+  linkedin: sivanandan-ac
+  email: sivanandan.ac@gmail.com
+
+# Navigation links
+navbar-links:
+  About Me: "aboutme"
+  Certifications: "certifications"
+  Tools: "tools"
+  GitHub: "https://github.com/siva4it"
+  LinkedIn: "https://www.linkedin.com/in/sivanandan-ac/"
 
 # Build settings
 markdown: kramdown
@@ -14,23 +31,20 @@ highlighter: rouge
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
-# Social media links
-social:
-  github: siva4it
-  linkedin: sivanandan-ac
-  twitter: siva4it
+# Defaults
+permalink: /:categories/:title/
+
+# Beautiful Jekyll options
+avatar: "https://github.com/siva4it.png"
+keywords: [Portfolio, Developer, Tools, Siva, GitHub]
+
+# Google Analytics (optional)
+# google_analytics: UA-XXXXXXXX-X
 
 # Collections
 collections:
   tools:
     output: true
     permalink: /tools/:name/
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: "tools"
-    values:
-      layout: "tool"
