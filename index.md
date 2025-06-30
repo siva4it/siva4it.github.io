@@ -13,6 +13,7 @@ Welcome to my portfolio! I'm Sivanandan (Siva), a passionate technologist based 
 - **Experience:** 10+ years in the software industry
 - **Current/Recent Role:** Cognizant
 - **Specialties:** Cloud Architecture (AWS, Azure, Google Cloud), AI/ML, Serverless, DevOps, Microservices, Full-Stack Development, R&D, Innovation, Technical Leadership
+- **Digital Badges:** [View all on Credly](https://www.credly.com/users/sivanandan-ac/badges)
 
 ### 🏆 Certifications
 - AWS Certified Solutions Architect – Professional & Associate
@@ -55,3 +56,4 @@ Here are some of the tools and projects I'm developing. Each one is designed to 
 - 📧 [Email](mailto:sivanandan.ac@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sivanandan-ac/)
 - 🐙 [GitHub](https://github.com/siva4it)
+- 🏅 [Credly Badges](https://www.credly.com/users/sivanandan-ac/badges)
